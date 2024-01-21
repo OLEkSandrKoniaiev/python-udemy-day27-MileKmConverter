@@ -32,15 +32,13 @@ class Car:
 
 
 my_car = Car(make="Nissan",
-             #model="GT-R"
+             # model="GT-R"
              )
 print(my_car.make)
 print(my_car.model)
-
 
 # def all_aboard(a, *args, **kw):
 #     print(a, args, kw)
 #
 #
 # all_aboard(4, 7, 3, 0, x=10, y=64)
-
